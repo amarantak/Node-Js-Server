@@ -1,0 +1,16 @@
+{
+  "name": "js-terminal",
+  "version": "1.0.0",
+  "description": "Node Js Terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node_js_server"
+  },
+  "author": "Amaranta Kruger",
+  "license": "MIT"
+}
